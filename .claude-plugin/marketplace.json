@@ -1,15 +1,15 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "helialab-superpowers",
+  "description": "Fork Helialab de Superpowers (rama helialab)",
   "owner": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
   },
   "plugins": [
     {
-      "name": "superpowers",
-      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "6.4.2",
+      "name": "helialab-superpowers",
+      "description": "Superpowers recortado para Helialab (sin hook SessionStart)",
+      "version": "6.4.2-helialab.1",
       "source": "./",
       "author": {
         "name": "Jesse Vincent",

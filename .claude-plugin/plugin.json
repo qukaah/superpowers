@@ -1,13 +1,13 @@
 {
-  "name": "superpowers",
-  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-  "version": "6.4.2",
+  "name": "helialab-superpowers",
+  "description": "Superpowers recortado para Helialab: writing-skills (TDD para skills), test-driven-development, verification-before-completion, systematic-debugging. Sin hook de SessionStart.",
+  "version": "6.4.2-helialab.1",
   "author": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/qukaah/superpowers",
+  "repository": "https://github.com/qukaah/superpowers",
   "license": "MIT",
   "keywords": [
     "skills",
