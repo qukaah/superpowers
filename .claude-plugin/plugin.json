@@ -1,7 +1,7 @@
 {
   "name": "helialab-superpowers",
   "description": "Superpowers recortado para Helialab: writing-skills (TDD para skills), test-driven-development, verification-before-completion, systematic-debugging. Sin hook de SessionStart.",
-  "version": "6.4.2-helialab.1",
+  "version": "7.0.0-helialab.1",
   "author": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
