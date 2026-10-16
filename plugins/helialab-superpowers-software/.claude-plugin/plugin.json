@@ -1,0 +1,13 @@
+{
+  "name": "helialab-superpowers-software",
+  "description": "Flujo de desarrollo de software de Superpowers para proyectos Helialab sin fases de hardware: brainstorming, writing-plans, executing-plans, subagent-driven-development, git worktrees, cierre de ramas, code review y agentes en paralelo. Complementa helialab-superpowers (núcleo TDD/debugging), que debe estar activo también. No usar junto al framework helialab-framework.",
+  "version": "6.4.2-helialab.1",
+  "author": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "homepage": "https://github.com/qukaah/superpowers",
+  "repository": "https://github.com/qukaah/superpowers",
+  "license": "MIT",
+  "keywords": ["skills", "planning", "code-review", "git", "subagents", "workflows"]
+}

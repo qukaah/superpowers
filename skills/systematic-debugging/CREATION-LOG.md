@@ -1,5 +1,17 @@
 # Creation Log: Systematic Debugging Skill
 
+## Contents
+
+- [Source Material](#source-material)
+- [Extraction Decisions](#extraction-decisions)
+- [Structure Following skill-creation/SKILL.md](#structure-following-skill-creationskillmd)
+- [Bulletproofing Elements](#bulletproofing-elements)
+- [Testing Approach](#testing-approach)
+- [Iterations](#iterations)
+- [Final Outcome](#final-outcome)
+- [Key Insight](#key-insight)
+- [Usage Example](#usage-example)
+
 Reference example of extracting, structuring, and bulletproofing a critical skill.
 
 ## Source Material

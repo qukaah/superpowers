@@ -8,9 +8,19 @@
   "plugins": [
     {
       "name": "helialab-superpowers",
-      "description": "Superpowers recortado para Helialab (sin hook SessionStart)",
+      "description": "Núcleo Superpowers para Helialab: TDD, debugging, verificación y writing-skills (sin hook SessionStart). Apto para proyectos del framework de hardware.",
       "version": "6.4.2-helialab.1",
       "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    },
+    {
+      "name": "helialab-superpowers-software",
+      "description": "Flujo de desarrollo de software (brainstorming, planes, ejecución con subagentes, worktrees, code review). Requiere helialab-superpowers. No combinar con helialab-framework.",
+      "version": "6.4.2-helialab.1",
+      "source": "./plugins/helialab-superpowers-software",
       "author": {
         "name": "Jesse Vincent",
         "email": "jesse@fsck.com"

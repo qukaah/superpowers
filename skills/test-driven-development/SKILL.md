@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: "Use when implementing any feature or bugfix, before writing implementation code En español: TDD, test primero, escribir los tests antes, implementar funcionalidad o corregir un bug con pruebas."
 ---
 
 # Test-Driven Development (TDD)

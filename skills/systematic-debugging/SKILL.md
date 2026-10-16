@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+description: "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes En español: depurar, falla, error, bug, no funciona, test que falla, bring-up, se reinicia, se cuelga, comportamiento raro."
 ---
 
 # Systematic Debugging

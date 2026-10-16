@@ -1,5 +1,15 @@
 # Writing Good Tests
 
+## Contents
+
+- [Overview](#overview)
+- [Principle 1: Name the Break](#principle-1-name-the-break)
+- [Principle 2: Exercise the Real Thing](#principle-2-exercise-the-real-thing)
+- [Tests Ship With the Implementation](#tests-ship-with-the-implementation)
+- [The Mutation Check](#the-mutation-check)
+- [Quick Reference](#quick-reference)
+- [Warning Signs](#warning-signs)
+
 **Load this reference when:** writing or changing tests, adding mocks, or
 adding cleanup/helper methods for tests.
 
